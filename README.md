@@ -1,3 +1,4 @@
+#صلي على النبي 
 # 📚 Internship Training Roadmap – Phased Learning Structure
 
 This cybersecurity internship is structured into **9 progressive phases**, each focusing on a key domain of modern enterprise security.  
@@ -82,6 +83,4 @@ By the end of this internship, you’ll have:
 - Practiced using **industry-grade tools and frameworks**
 
 ---
-
-🟢 **Ready to get started? Move to Phase 1: [Setup and Orientation](./Phase1%20Setup%20Guide.md)**
 
